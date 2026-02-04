@@ -6,6 +6,6 @@ public class Polymorphismmain {
 		pd.dhoni(2);
 		pd.dhoni("hai", 7.8f);
 		pd.dhoni(7.8f, "hello");
-
+	}
 
 }
